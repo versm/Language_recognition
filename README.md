@@ -8,3 +8,5 @@ Input:
 Neural network recognizes language based on the proportion of letters in the text. It is trained with Delta rule.
 
 GUI was made using Java Swing library.
+
+<img src="tetris_screenshot.jpg" width=400>
