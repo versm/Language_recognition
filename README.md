@@ -9,4 +9,6 @@ Neural network recognizes language based on the proportion of letters in the tex
 
 GUI was made using Java Swing library.
 
-<img src="language_guessing.jpg" width=400>
+<img src="english.jpg" width=400>
+
+<img src="spanish.jpg" width=400>
